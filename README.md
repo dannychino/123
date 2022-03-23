@@ -16,6 +16,7 @@
 123
 <sub>456123456</sub>
 <h2>567</h2>
+<p>https://docs.google.com/document/d/1FEpITypmSJXm0n2yL-FeoBys2RX-3jUyu_JIBMDO0AM/edit?usp=sharing</p>
 <p style="font-family:arial;color:red;font-size:90px;"style="font-family:times;color:white"> 123456788</p>
 <a style="background-color:black"href="http://ep.gish.tyc.edu.tw/">歷程上傳</a>
 <ADDRESS>123<a href="http://ep.gish.tyc.edu.tw/"123 /a>123456789</ADDRESS>	
