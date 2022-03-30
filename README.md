@@ -2,23 +2,83 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>987</title>
+	<title>me</title>
+
+
+
+<table border="1" style="width:50%">
+<tr>
+<th colspan="4">自我介紹表</th>
+</tr>
+<tr>
+<td>>姓名</td>
+<td>張智崇</td>
+</tr>
+<tr>
+	<td>出生日期</td>
+	<td>2003/11/30</td>
+	<td>性別</td>
+	<td>男</td>
+</tr>
+<tr>
+	<td>籍貫/出生地</td>
+	<td>桃園市</td>
+	<td>聯絡電話</td>
+	<td>0976992008</td>
+</tr>
+<tr>
+<td>通訊地址</td>
+<td>桃園市觀音區三合里文化路坑尾段360巷11弄3號</td>
+</tr>
+<tr>
+   <td>電子信箱</td>
+   <td>a0976992008@gmail.com</td>
+</tr>
+<tr>
+	<td>學歷</td>
+	<td>觀音高中 普通科</td>
+</tr>
+<tr>
+	<td>專長</td>
+	<td>1.羽球<br>
+	2.反應很快<br>
+    3.想像力</td>
+</tr>
+<tr>
+	<td>興趣</td>
+	<td>1.羽球<br>
+	2.電腦遊戲<br>
+	3.喜歡散步騎腳踏車<br>
+	4.聽音樂(日文居多)
+	</td>
+</tr>
+<tr>
+	<td>幹部經驗</td>
+	<td>1.高1上副班長、1下服務股長<br>
+	2.高2上衛生股長、2下副班長<br>
+	</td>
+	
+</tr>
+<tr>
+	<td>社團經歷</td>
+	<td>一年級羽球社、二年級羽球社</td>
+</tr>
+<tr>
+	<td>活動經驗</td>
+	<td>公民訓練班級活動策劃安排</td>
+</tr>
+<tr>
+	<td>座右銘</td>
+	<td>真正的危險就是沒有去察覺危險</td>
+</tr>
+</table>
+
+
+
+
+
 </head>
 <body bgcolor="white">
-<h1 align="center">123</h1>
-<hr/>
-<pre style="background-color:yellow">123456
-4646465     4
-6455665464</pre>
-<P>123456789<Q>987654</Q></P>
-<br>
-<P><ABBR>123</ABBR></P>
-123
-<sub>456123456</sub>
-<h2>567</h2>
-<p>https://docs.google.com/document/d/1FEpITypmSJXm0n2yL-FeoBys2RX-3jUyu_JIBMDO0AM/edit?usp=sharing</p>
-<p style="font-family:arial;color:red;font-size:90px;"style="font-family:times;color:white"> 123456788</p>
-<a style="background-color:black"href="http://ep.gish.tyc.edu.tw/">歷程上傳</a>
-<ADDRESS>123<a href="http://ep.gish.tyc.edu.tw/"123 /a>123456789</ADDRESS>	
+
 </body>
 </html>
